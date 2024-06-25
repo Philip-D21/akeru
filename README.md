@@ -7,7 +7,7 @@ This is Bun server with elysia for Akeru Api
 To run this Akeru server locally, follow these steps
 * Install [Bun](https://bun.sh/docs/installation)
 * Check if Bun has fully install on your local computer `Bun --version`
-* Fork and clone the repository with git clone 
+* Fork and clone the repository with `git clone https://github.com/Philip-D21/akeru`
 * Change into the backend directory with `cd  packages/akeru-server`
 * Install the dependencies with `Bun install`
 * Run the local dev server with watch-mode :`npm run dev`
